@@ -106,22 +106,19 @@ In this project, baseline and balanced Logistic Regression models, along with a 
 
 ## Project Structure
 
+```text
 low_back_pain_rtw_prediction_project/
-│
 ├── data/
 │   └── low_back_pain_rtw_dataset.csv
-│
 ├── notebooks/
 │   └── Return_to_Work_Modeling.ipynb
-│
 ├── images/
 │   ├── baseline_logistic_regression_feature_importance.png
 │   ├── balanced_logistic_regression_feature_importance.png
 │   └── random_forest_feature_importance.png
-│
 ├── environment.yml
-│
 └── README.md
+```
 
 ---
 
